@@ -12,7 +12,7 @@ function OtherExperience() {
                         <div className="internship_block">
                             <p className="others_heading">Php Developer</p>
                             <div className="internship">
-                                <img src="src/assets/cs.png"></img>
+                                <img src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/cs.png?v=1695448628"></img>
                                 <p>CS Infotech, Chandigarh</p>
                             </div>
                             <p className="php_overview">In my 6-month PHP internship, I acquired proficiency in PHP for server-side scripting, JavaScript/jQuery for enhancing interactivity, Ajax for asynchronous data exchange, HTML for web page structure, and MySQL for database management.</p>

@@ -11,7 +11,7 @@ function Experience() {
                         <h2 className="experience_position">Shopify Full Stack Developer</h2>
                         <p className="experience_x_position">Build Shopify's Custom Apps and Practising React JS</p>
                         <div className="experience_company">
-                            <img className="company_logo" src="src/assets/iwebcode.png"></img>
+                            <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/iwebcode.png?v=1695448628"></img>
                             <p className="company_name">Iwebcode</p>
                             <p className="experience_time">7/22 - 10/23</p>
                         </div>
@@ -29,7 +29,7 @@ function Experience() {
                         <h2 className="experience_position">Shopify Developer</h2>
                         <p className="experience_x_position">also knowledge of Wordpress's Elementor</p>
                         <div className="experience_company">
-                            <img className="company_logo" src="src/assets/Mahaich.png"></img>
+                            <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Mahaich.png?v=1695448628"></img>
                             <p className="company_name">Mahaich IT Solutions</p>
                             <p className="experience_time">06/20-06/22</p>
                         </div>
