@@ -3,7 +3,7 @@ import TypeIt from "typeit-react";
 export default () => {
   return (
     <div className="main_info_text App">
-        <h2 className="info_text">
+        <p className="info_text">
           <TypeIt
               options={{ loop: true }}
               getBeforeInit={(instance) => {
@@ -11,7 +11,7 @@ export default () => {
                   return instance;
               }}
           />
-        </h2>
+        </p>
     </div>
   );
 };
