@@ -45,7 +45,7 @@ function Preview({product,setproduct,page,preview}){
           <div className="title">
             <h2 dangerouslySetInnerHTML={{__html:product.title}} ></h2>
             <div className="con">
-              <button className='btn close_btn' onClick={() => setproduct(false)}><i class="fa-regular fa-circle-xmark"></i>Close</button>
+              <button className='btn close_btn' onClick={() => setproduct(false)}><i className="fa-regular fa-circle-xmark"></i>Close</button>
             </div>
           </div>
           <br />
