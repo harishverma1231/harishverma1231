@@ -8,7 +8,7 @@ function OtherExperience() {
 
                 <div className="g_background" data-aos="zoom-in-right" data-aos-duration="1000">
                     <div className="section_o_experience experience_g_bg">
-                        <h2>Internship</h2>
+                        <h2>Courses</h2>
                         <div className="internship_block">
                             <p className="others_heading">Php Developer</p>
                             <div className="internship">

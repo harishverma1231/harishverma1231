@@ -7,7 +7,7 @@ function About(){
                     <h2 className="intro_heading">Overview.</h2>
                     <p className="my_intro">Experienced Shopify Developer in delivering high-quality e-commerce solutions. Self-motivated, highly organized & dedicated with a positive attitude. A fast learner and good communicator with inherent flexibility towards change, as well as smart working skills.</p>
                     <button className="btn btn_myresume">
-                        <a style={{"color":"inherit","textDecoration":"none"}}  href="https://harish-verma.000webhostapp.com/Harish%20Resume.pdf" target="_blank">
+                        <a style={{"color":"inherit","textDecoration":"none"}}  href="https://harish-verma.000webhostapp.com/Harish's%20Resume.pdf" target="_blank">
                             My Resume
                         </a>
                     </button>

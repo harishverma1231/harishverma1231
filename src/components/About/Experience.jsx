@@ -27,7 +27,7 @@ function Experience() {
                 <div className="experience mahaich" data-aos="flip-left" data-aos-duration="1500">
                     <div className="experience_g_bg">
                         <h2 className="experience_position">Shopify Developer</h2>
-                        <p className="experience_x_position">also knowledge of Wordpress's Elementor</p>
+                        <p className="experience_x_position">and knowledge of Wordpress</p>
                         <div className="experience_company">
                             <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Mahaich.png?v=1695448628"></img>
                             <p className="company_name">Mahaich IT Solutions</p>

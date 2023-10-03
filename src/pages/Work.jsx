@@ -12,6 +12,27 @@ function Work(){
                 </div>
 
                 <div className="projects_name">
+                    <a className="my_project_link" href="https://avangardgold.ro/pages/schimb-valutar" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/avangard.png?v=1695382638"/>
+                        <h3>avangardgold-ro.myshopify.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://shop.allthingschildcare.com" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Atcc.png?v=1695382638"/>
+                        <h3>allthingschildcare.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://puregrounded.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/puregrounded.png?v=1696365050"/>
+                        <h3>puregrounded.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
                     <a className="my_project_link" href="https://lulusnaturals.com" target="_blank">
                         <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/lulus.png?v=1695382637"/>
                         <h3>lulusnaturals.com</h3>
@@ -28,13 +49,6 @@ function Work(){
                     <a className="my_project_link" href="https://celinevictor.com" target="_blank">
                         <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/celinevictor.png?v=1695382637"/>
                         <h3>celinevictor.com</h3>
-                    </a>
-                </div>
-
-                <div className="projects_name">
-                    <a className="my_project_link" href="https://shop.allthingschildcare.com" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Atcc.png?v=1695382638"/>
-                        <h3>allthingschildcare.com</h3>
                     </a>
                 </div>
 
@@ -92,14 +106,7 @@ function Work(){
                         <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/just-sun.png?v=1695382638"/>
                         <h3>justsun.ca</h3>
                     </a>
-                </div>
-
-                <div className="projects_name">
-                    <a className="my_project_link" href="https://avangardgold-ro.myshopify.com" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/avangard.png?v=1695382638"/>
-                        <h3>avangardgold-ro.myshopify.com</h3>
-                    </a>
-                </div>
+                </div>              
 
                 <div className="projects_name">
                     <a className="my_project_link" href="https://nomnomuae.com" target="_blank">
