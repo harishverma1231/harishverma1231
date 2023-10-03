@@ -13,7 +13,7 @@ function Work(){
 
                 <div className="projects_name">
                     <a className="my_project_link" href="https://avangardgold.ro/pages/schimb-valutar" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/avangard.png?v=1695382638"/>
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/avangard.png?v=1696365590"/>
                         <h3>avangardgold-ro.myshopify.com</h3>
                     </a>
                 </div>
