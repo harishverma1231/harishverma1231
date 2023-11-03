@@ -73,7 +73,7 @@ const Shopify = () => {
       setproduct(data.find(product=>product.id===id));
     }
     useEffect(() => {       
-       fetch("https://harish-verma.000webhostapp.com/curl11.php", { 
+       fetch("https://demo.rejoincycles.com/tetsing/curl11.php", { 
          method: "GET"
        })
        .then((res)=>res.json())
