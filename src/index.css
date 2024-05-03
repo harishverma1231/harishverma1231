@@ -256,10 +256,16 @@ width: 0;
   padding: 50px 0 30px;
 }
 
-.section_experience_block {
+/* .section_experience_block {
   display: flex;
   align-items: center;
   justify-content: space-around;
+} */
+
+.section_experience_block {
+  display: grid;
+  gap: 20px;
+  align-items: start;
 }
 
 .company_logo {
@@ -293,7 +299,7 @@ width: 0;
   background-size: 400% 400%;
   border-radius: 15px;
   animation: animate 3s infinite ease-in-out;
-  margin: 0 20px;
+  /* margin: 0 20px; */
 }
 .experience_g_bg {
   background: rgb(5 8 22 / 1);
@@ -358,7 +364,35 @@ width: 0;
 .g_background>div {
   height: 100%;
 }
+.rejoin .company_logo {
+  width: 20px;
+  margin-right: 7px;
+}
+.rejoin {
+  grid-column: 1 / span 2;
+  grid-row: 1;
+}
+.iwebcode {
+  grid-column: 1 / span 2;
+  grid-row: 2;
+}
 
+.mahaich {
+  grid-column: 3;
+  grid-row: 1 / span 2;
+}
+
+.rejoin li {
+  margin: 10.5px;
+}
+.iwebcode li {
+  margin: 10.5px;
+}
+
+.rejoin .company_logo {
+    width: 20px;
+    margin-right: 7px;
+}
 .experience_g_bg h2 {
   font-size: 30px;
   color: white;
@@ -491,6 +525,12 @@ button.btn:hover {
 
 
 @media only screen and (max-width: 480px) {
+p.company_name {
+    font-size: 12px;
+}
+p.company_name {
+  font-size: 12px;
+}
 .experience_g_bg h2 {
   font-size: 20px;
 }

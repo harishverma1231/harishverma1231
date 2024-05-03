@@ -6,39 +6,45 @@ function Experience() {
                 <h2>Work Experience.</h2>
             </div>
             <div className="section_experience_block">
-                <div className="experience iwebcode" data-aos="flip-right" data-aos-duration="1500">
+                <div className="experience rejoin" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                     <div className="experience_g_bg">
-                        <h2 className="experience_position">Shopify Full Stack Developer</h2>
-                        <p className="experience_x_position">Build Shopify's Custom Apps and Practising React JS</p>
+                        <div className="experience_company">
+                            <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/logo-clr-1_1.png?v=1714758954"></img>
+                            <p className="company_name">Rejoin Web Solution</p>
+                            <p className="experience_time">10/23 - 05/24</p>
+                        </div>
+                        <ul className="experience_tasks">
+                            <li>Developed a private Shopify app featuring an AI chatbot powered by ChatGPT.</li>
+                            <li>Customized a Shopify public app to meet speci c client requirements</li>
+                        </ul>
+                    </div>
+                </div>
+                <div className="experience iwebcode" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" >
+                    <div className="experience_g_bg">
                         <div className="experience_company">
                             <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/iwebcode.png?v=1695448628"></img>
                             <p className="company_name">Iwebcode</p>
                             <p className="experience_time">7/22 - 10/23</p>
                         </div>
                         <ul className="experience_tasks">
-                            <li>Developed Custom Shopify apps to meet specific business needs and enhance e-commerce functionality.</li>
-                            <li>Proficient in Shopify's API for e-commerce, adept at integrating third-party APIs, and skilled in Google Maps API for precise mapping and nearest location-based web app features.</li>
-                            <li>Enhanced website speed optimization to deliver faster loading times, improved user experience, and higher search engine rankings.</li>
-                            <li>Customized Shopify Public apps to align seamlessly with specific business needs, enhancing functionality and user experience.</li>
-                            <li>Effectively managed Shopify's metaobjects and metafields to organize and enhance product data, enabling more dynamic and customized e-commerce experiences for customers.</li>
+                            <li>Developed custom Shopify apps to utilize Shopify's API for enhanced functionality.</li>
+                            <li>Integrated third-party APIs and tools to add features and improve user experience.</li>
+                            <li>Experienced in converting Figma/PSD to HTML, ensuring responsiveness, and pro cient in CSS animations and media queries.</li>
                         </ul>
                     </div>
                 </div>
-                <div className="experience mahaich" data-aos="flip-left" data-aos-duration="1500">
+                <div className="experience mahaich" data-aos="fade-down" data-aos-offset="300">
                     <div className="experience_g_bg">
-                        <h2 className="experience_position">Shopify Developer</h2>
-                        <p className="experience_x_position">and knowledge of Wordpress</p>
                         <div className="experience_company">
                             <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Mahaich.png?v=1695448628"></img>
                             <p className="company_name">Mahaich IT Solutions</p>
-                            <p className="experience_time">06/20-06/22</p>
+                            <p className="experience_time">06/20 - 06/22</p>
                         </div>
                         <ul className="experience_tasks">
-                            <li>Designed and developed custom sections and templates, proficiently modifying theme sections to create visually unique online experiences.</li>
-                            <li>Proficient in crafting custom sliders, shipping bars, cart drawers, quick view popups, mega menus, and collection filters to enhance website design and elevate the user experience.</li>
-                            <li>Skilled in converting Figma/PSD to HTML, ensuring responsiveness, and adept in CSS animations and media queries for improved website functionality.</li>
-                            <li>Integrated payment gateways and streamlined checkout processes, resulting in a higher conversion rate and improved customer satisfaction.</li>
-                            <li>Collaborated with cross-functional teams, to deliver high-quality Shopify solutions that met business requirements and delivered on time and within budget.</li>
+                            <li>Developed custom features and functionalities using Shopify's Liquid templating language, HTML, CSS, and JavaScript/Jquery.</li>
+                            <li>Enhanced Shopify store performance by optimizing code, compressing images, enabling lazy loading, reducing file sizes.</li>
+                            <li>Customized Shopify themes to match the client's branding, including layout, colours, fonts, and imagery</li>
+                            <li>Fixed bugs for smooth store operation and good user experience. Tested and analyzed logs to prevent issues. Collaborated with team to solve complex problems.</li>
                         </ul>
                     </div>
                 </div>
