@@ -461,7 +461,9 @@ button.btn:hover {
   margin: 30px auto;
 }
 
-
+.pdetails .title {
+  display: none;
+}
 
 @media only screen and (max-width: 1024px) {
 .section_about_div {
