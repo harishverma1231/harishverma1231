@@ -19,7 +19,7 @@ function Work(){
                 </div>
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://shop.allthingschildcare.com" target="_blank">
+                    <a className="my_project_link" href="https://shopallthingschildcare.com" target="_blank">
                         <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Atcc.png?v=1695382638"/>
                         <h3>allthingschildcare.com</h3>
                     </a>

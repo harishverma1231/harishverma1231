@@ -11,11 +11,11 @@ function Experience() {
                         <div className="experience_company">
                             <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/logo-clr-1_1.png?v=1714758954"></img>
                             <p className="company_name">Rejoin Web Solution</p>
-                            <p className="experience_time">10/23 - 05/24</p>
+                            <p className="experience_time">10/23 - Present</p>
                         </div>
                         <ul className="experience_tasks">
                             <li>Developed a private Shopify app featuring an AI chatbot powered by ChatGPT.</li>
-                            <li>Customized a Shopify public app to meet speci c client requirements</li>
+                            <li>Customized a Shopify public app to meet specfic client requirements</li>
                         </ul>
                     </div>
                 </div>
@@ -33,12 +33,12 @@ function Experience() {
                         </ul>
                     </div>
                 </div>
-                <div className="experience mahaich" data-aos="fade-down" data-aos-offset="300">
+                <div className="experience fabcode" data-aos="fade-down" data-aos-offset="300">
                     <div className="experience_g_bg">
                         <div className="experience_company">
-                            <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Mahaich.png?v=1695448628"></img>
-                            <p className="company_name">Mahaich IT Solutions</p>
-                            <p className="experience_time">06/20 - 06/22</p>
+                            <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/photo.jpg?v=1722259130"></img>
+                            <p className="company_name">Fabcode It solutions</p>
+                            <p className="experience_time">02/21 - 06/22</p>
                         </div>
                         <ul className="experience_tasks">
                             <li>Developed custom features and functionalities using Shopify's Liquid templating language, HTML, CSS, and JavaScript/Jquery.</li>
