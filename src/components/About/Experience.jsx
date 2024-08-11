@@ -24,7 +24,7 @@ function Experience() {
                         <div className="experience_company">
                             <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/iwebcode.png?v=1695448628"></img>
                             <p className="company_name">Iwebcode</p>
-                            <p className="experience_time">7/22 - 10/23</p>
+                            <p className="experience_time">8/22 - 10/23</p>
                         </div>
                         <ul className="experience_tasks">
                             <li>Developed custom Shopify apps to utilize Shopify's API for enhanced functionality.</li>
