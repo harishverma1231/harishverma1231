@@ -5,7 +5,7 @@ function Work(){
             <div className="my_projects_block container">
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://www.yevont.com/en-in" target="_blank">
+                    <a className="my_project_link" href="https://www.yevont.com/products/custom-retro" target="_blank">
                         <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/yevnot.png?v=1695382637"/>
                         <h3>Yevont.com</h3>
                     </a>

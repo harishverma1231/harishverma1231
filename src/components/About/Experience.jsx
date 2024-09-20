@@ -14,7 +14,7 @@ function Experience() {
                             <p className="experience_time">10/23 - Present</p>
                         </div>
                         <ul className="experience_tasks">
-                            <li>Developed a private Shopify app featuring an AI chatbot powered by ChatGPT.</li>
+                            <li>Developed a Custom Shopify app featuring an AI chatbot powered by ChatGPT.</li>
                             <li>Customized a Shopify public app to meet specfic client requirements</li>
                         </ul>
                     </div>
