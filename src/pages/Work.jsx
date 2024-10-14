@@ -12,6 +12,13 @@ function Work(){
                 </div>
 
                 <div className="projects_name">
+                    <a className="my_project_link" href="https://www.earbuddies.com/?_ab=0&_fd=0&_sc=1&preview_theme_id=164968792365" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/earbuddies.png?v=1728925763"/>
+                        <h3>earbuddies.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
                     <a className="my_project_link" href="https://avangardgold.ro/pages/schimb-valutar" target="_blank">
                         <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/avangard.png?v=1696365590"/>
                         <h3>avangardgold-ro.myshopify.com</h3>
@@ -19,16 +26,107 @@ function Work(){
                 </div>
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://shopallthingschildcare.com" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Atcc.png?v=1695382638"/>
-                        <h3>allthingschildcare.com</h3>
+                    <a className="my_project_link" href="https://getremade.com" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223413.png?v=1728925748"/>
+                        <h3>getremade.com</h3>
                     </a>
                 </div>
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://puregrounded.com/" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/puregrounded.png?v=1696365050"/>
-                        <h3>puregrounded.com</h3>
+                    <a className="my_project_link" href="https://www.mysquegg.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223839.png?v=1728925747"/>
+                        <h3>mysquegg.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://beyondrecovery.com" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223506.png?v=1728925747"/>
+                        <h3>beyondrecovery.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://messinahembry.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223715.png?v=1728925748"/>
+                        <h3>messinahembry.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://lousoccerstore.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223552.png?v=1728925748"/>
+                        <h3>lousoccerstore.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://www.collectivehearts.co/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/collectiive.png?v=1728925848"/>
+                        <h3>collectivehearts.co</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://www.herculessupplements.com.au" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223304.png?v=1728925748"/>
+                        <h3>herculessupplements.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://sheetyeah.com.au" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223220.png?v=1728925749"/>
+                        <h3>sheetyeah.com.au</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://glowupstore.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223529.png?v=1728925749"/>
+                        <h3>glowupstore.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://babiclo.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223633.png?v=1728925748"/>
+                        <h3>babiclo.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://www.secondwavevintage.co.uk/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223650.png?v=1728925748"/>
+                        <h3>secondwavevintage.co</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://www.lacyloulondon.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223730.png?v=1728925749"/>
+                        <h3>lacyloulondon.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://us.maisondesabre.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Screenshot_2024-10-14_223823.png?v=1728925748"/>
+                        <h3>us.maisondesabre.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://grapechiller.com" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/grape.png?v=1728925749"/>
+                        <h3>grapechiller.com</h3>
+                    </a>
+                </div>
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://shopallthingschildcare.com" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/Atcc.png?v=1695382638"/>
+                        <h3>allthingschildcare.com</h3>
                     </a>
                 </div>
 
@@ -53,16 +151,23 @@ function Work(){
                 </div>
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://aclrys.myshopify.com" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/aclrys.png?v=1695382637"/>
-                        <h3>aclrys.myshopify.com</h3>
+                    <a className="my_project_link" href="https://justsun.ca" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/just-sun.png?v=1695382638"/>
+                        <h3>justsun.ca</h3>
+                    </a>
+                </div>              
+
+                <div className="projects_name">
+                    <a className="my_project_link" href="https://nomnomuae.com" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/nomnom.png?v=1695382637"/>
+                        <h3>nomnomuae.com</h3>
                     </a>
                 </div>
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://vioraa.shop" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/vioraa.png?v=1695382637"/>
-                        <h3>vioraa.shop</h3>
+                    <a className="my_project_link" href="https://aclrys.myshopify.com" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/aclrys.png?v=1695382637"/>
+                        <h3>aclrys.myshopify.com</h3>
                     </a>
                 </div>
 
@@ -102,16 +207,16 @@ function Work(){
                 </div>
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://justsun.ca" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/just-sun.png?v=1695382638"/>
-                        <h3>justsun.ca</h3>
+                    <a className="my_project_link" href="https://vioraa.shop" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/vioraa.png?v=1695382637"/>
+                        <h3>vioraa.shop</h3>
                     </a>
-                </div>              
+                </div>
 
                 <div className="projects_name">
-                    <a className="my_project_link" href="https://nomnomuae.com" target="_blank">
-                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/nomnom.png?v=1695382637"/>
-                        <h3>nomnomuae.com</h3>
+                    <a className="my_project_link" href="https://puregrounded.com/" target="_blank">
+                        <img className="my_project_img" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/puregrounded.png?v=1696365050"/>
+                        <h3>puregrounded.com</h3>
                     </a>
                 </div>
 
