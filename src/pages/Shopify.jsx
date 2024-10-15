@@ -92,7 +92,7 @@ const Shopify = () => {
     <>
       <div ref={page} className="portfolio container">
         <h2 className='products_heading'>MY SHOPIFY STORE'S PRODUCTS</h2>
-        <p className='containerr'>Using the Shopify API, I fetched and displayed products directly from my store within my portfolio, showcasing my ability to build versatile, data-driven applications. This achievement not only highlights my technical expertise but also reflects my commitment to providing innovative solutions for e-commerce businesses using Shopify.</p>
+        <p className='containerr'>Using the Shopify API, I fetched and displayed products directly from my store within my portfolio.</p>
         <div className="all">
           <Products data={data} proclick={proclick} />
         </div>
