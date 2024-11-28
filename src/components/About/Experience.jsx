@@ -38,7 +38,7 @@ function Experience() {
                         <div className="experience_company">
                             <img className="company_logo" src="https://cdn.shopify.com/s/files/1/0600/4038/0594/files/photo.jpg?v=1722259130"></img>
                             <p className="company_name">Fabcode It solutions</p>
-                            <p className="experience_time">02/21 - 06/22</p>
+                            <p className="experience_time">02/21 - 07/22</p>
                         </div>
                         <ul className="experience_tasks">
                             <li>Developed custom features and functionalities using Shopify's Liquid templating language, HTML, CSS, and JavaScript/Jquery.</li>
